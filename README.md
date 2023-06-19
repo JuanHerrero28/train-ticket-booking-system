@@ -24,9 +24,9 @@ El precio de una reserva se calcula multiplicando la cantidad de personas por el
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 Crea un fork de este repositorio.
-Realiza tus cambios en una rama separada.
-Envía un pull request con tus cambios.
+- Realiza tus cambios en una rama separada.
+- Envía un pull request con tus cambios.
 
 # Autor
-Juan Manuel Herrero
-Emiliano Nakayama
+- Juan Manuel Herrero
+- Emiliano Nakayama
